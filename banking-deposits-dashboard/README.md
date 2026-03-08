@@ -60,3 +60,14 @@ Power BI
 DAX  
 Data Modeling  
 Interactive Drill-through Analytics
+
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](dashboard-screenshots/Deposits%20Report%20Main%20Dashboard.png)
+
+### Detailed Analysis Page
+![Detailed Page](dashboard-screenshots/Deposits%20Report%20Detailed%20Page.png)
+
+### Tooltip Insights
+![Tooltip](dashboard-screenshots/Deposits%20Report%20Tooltip.png)
